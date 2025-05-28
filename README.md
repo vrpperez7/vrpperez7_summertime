@@ -1,6 +1,6 @@
 # vrpperez7_summertime
 
-Navigation:
+### Navigation:
 * [About Me](#about-me)
 * [Skills](#skills)
 * [Projects](#projects)
